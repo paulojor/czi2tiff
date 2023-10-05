@@ -12,7 +12,7 @@ and install the pack bfmatlab in the same folder as the one containing these mat
 
 ---
 
-czi2tiff.m permits the user convert single czi files. 
+czi2tiff.m permits the user to convert single czi files. 
 
 czi2tiffBatch.m permits the user to choose a folder and the function will convert all czi files in that folder into the equivalent tiff files. 
 
