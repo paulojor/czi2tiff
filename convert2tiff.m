@@ -1,5 +1,7 @@
 function convert2tiff(cellImageCh,filename)
-%This function converts the variable cellImageCh into tiff format. 
+%This function converts the variable cellImageCh into tiff format.
+%
+% Created by Paulo Girão, NTNU, October 2023.
 
 for n=1:numel(cellImageCh) %for each channel
     if numel(cellImageCh)==1

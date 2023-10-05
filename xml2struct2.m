@@ -14,6 +14,7 @@ function  outStruct  = xml2struct2(input)
 % Added CDATA support by I. Smirnov, 20-3-2012
 % Modified by X. Mo, University of Wisconsin, 12-5-2012
 % Modified by Chao-Yuan Yeh, August 2016
+% Modified by Paulo Girão, October 2023.
 errorMsg = ['%s is not in a supported format.\n\nInput has to be',...
         ' a java xml object, an xml file, or a string in xml format.'];
 % check if input is a java xml object

@@ -11,6 +11,9 @@ function [imageCh,cellImageCh,lut,metadata] = channelExtract(data)
 %the following 3 axis:
 %x,y,z
 
+% Created by Paulo Girão, NTNU, October 2023.
+
+
 if size(data,1)==1
     
     if size(data{1,1},1)>1
