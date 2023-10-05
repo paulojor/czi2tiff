@@ -1,6 +1,6 @@
 function czi2tiffBatch(folder)
 % CZI2TIFFBATCH batch converts Carl Zeiss LSM 880 czi files to TIFF files.
-% The function will do the concersion to all the czi files present in the
+% The function will do the conversion to all the czi files present in the
 % chosen folder. 
 %
 % The resulting tiff files will have the same name root as the original czi
